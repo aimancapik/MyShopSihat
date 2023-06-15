@@ -1,6 +1,7 @@
 # MyShopSihat
 
-"MyShopSihat" is a booking system designed to improve the shopping experience for its users. The "MyShopSihat" system allows users to reserve time to shop at a certain store depending on available time and quota. 
+"MyShopSihat" is a booking system designed to improve the shopping experience for its users. The "MyShopSihat" system allows users to reserve time to shop at a certain store depending on available time and quota.
+
 
 
 
